@@ -1,0 +1,6 @@
+D:\Documentos\SharpDevelop Projects\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+D:\Documentos\SharpDevelop Projects\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+D:\Documentos\SharpDevelop Projects\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+D:\Documentos\SharpDevelop Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+D:\Documentos\SharpDevelop Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
